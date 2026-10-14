@@ -1,0 +1,10 @@
+{
+  "name": "prova-sito",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sito di prova di Go Ital IA (Modulo Sviluppo, pubblicazione)",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/test.mjs"
+  }
+}
